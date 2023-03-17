@@ -40,6 +40,7 @@ The headers can be replaced as follows:
 * `NNAG` to `sRGB`
 * `IVEY` to `pHYs`
 * `OUUP` to `IDAT`
+
 Only the first, second, and fifth replacements are required to repair the file.
 
 This gives us this:
@@ -55,3 +56,5 @@ There is a text file named `clarification.txt` that tells us any letters in the 
 **stage_five**
 
 We get a file `flag`, which has the flag `wxmctf{unz1pp3d_4nd_0p3n3d_7a6970}`
+
+**FLAG:** `wxmctf{unz1pp3d_4nd_0p3n3d_7a6970}`
